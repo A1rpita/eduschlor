@@ -1,0 +1,48 @@
+[
+  {
+    "id": "NSP-2526-001",
+    "name": "Post Matric Scholarship Schemes Minorities 2025-26",
+    "provider": "Ministry of Minority Affairs",
+    "eligibility": {
+      "religion": ["Muslim", "Sikh", "Christian", "Buddhist", "Jain", "Parsi"],
+      "income_limit": 250000,
+      "min_marks": 50
+    },
+    "benefits": "₹4,500 to ₹18,000 per annum",
+    "type": "Government"
+  },
+  {
+    "id": "MAHA-DBT-2526-002",
+    "name": "Rajarshi Chhatrapati Shahu Maharaj Fee Reimbursement (2025-26)",
+    "provider": "Govt. of Maharashtra (DTE)",
+    "eligibility": {
+      "state": "Maharashtra",
+      "category": ["General", "SEBC", "EWS"],
+      "income_limit": 800000
+    },
+    "benefits": "100% Tuition Fee Waiver for EBC/EWS",
+    "type": "State"
+  },
+  {
+    "id": "CORP-2526-003",
+    "name": "HDFC Badhte Kadam Scholarship 2025",
+    "provider": "HDFC Bank CSR",
+    "eligibility": {
+      "income_limit": 600000,
+      "min_marks": 60
+    },
+    "benefits": "Up to ₹1,20,000",
+    "type": "Private"
+  },
+  {
+    "id": "REL-2526-004",
+    "name": "Reliance Foundation Undergraduate Scholarship 2025-26",
+    "provider": "Reliance Foundation",
+    "eligibility": {
+      "income_limit": 1500000,
+      "min_marks": 60
+    },
+    "benefits": "₹2,00,000 over the course duration",
+    "type": "Private"
+  }
+]

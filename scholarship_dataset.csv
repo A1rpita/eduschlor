@@ -1,0 +1,106 @@
+No,Scholarship Name,Provider,Amount,Gender,Eligibility
+1,Post Matric Scholarship for Minorities,Ministry of Minority Affairs,₹15000,All,Minorities with income < 2.0L
+2,Rajarshi Shahu Maharaj Fee Reimbursement,MahaDBT,100% Fee,All,EWS/OBC in MH with income < 8.0L
+3,HDFC Badhte Kadam Scholarship,HDFC Bank,₹100000,All,Income < 6.0L & Marks > 60%
+4,KVPY Fellowship,DST Govt of India,₹7000/pm,All,Science students with 75% marks
+5,UP Post Matric Scholarship,UP Govt,Variable,All,SC/ST/OBC/Gen with income < 2.5L
+6,Tata Capital Pankh Scholarship,Tata Capital,80% Fee,All,Income < 4.0L & Marks > 60%
+7,Reliance Foundation UG Scholarships,Reliance Foundation,₹200000,All,Merit-cum-Means with income < 15L
+8,Pragati Scholarship for Girls,AICTE,₹50000,Female,Female students in Technical Education
+9,Fair & Lovely Foundation Scholarship,HUL,₹50000,Female,Female students with 60% marks
+10,SSP Post Matric Karnataka,Govt of Karnataka,Variable,All,SC/ST/OBC with income < 2.5L
+11,L’Oréal India For Young Women,L’Oréal India,₹250000,Female,Science students with 85% marks
+12,LIC HFL Vidyadhan,LIC HFL,₹20000,All,Income < 3.6L & Marks > 60%
+13,Central Sector University Scheme,Dept of Higher Education,₹20000,All,General category with 80% marks
+14,PM-YASASVI,MSJE Govt of India,Variable,All,OBC/EBC/DNT with income < 2.5L
+15,Dr. Panjabrao Deshmukh Allowance,MahaDBT,₹30000,All,Hostel maintenance for EBC/SEBC
+16,Ishaan Uday Special Scholarship,UGC,₹7800/pm,All,NER Students, Family Income < 4.5L
+17,INSPIRE Scholarship,DST,₹80000,All,Top 1% in Class 12th Board
+18,Sitaram Jindal Foundation,Jindal Group,₹2000/pm,All,Merit-based, Income < 4.0L
+19,SwarnaJayanti Fellowships,DST,₹25000/pm,All,PhD Researchers in Science
+20,K.C. Mahindra Scholarships,Mahindra Group,₹10000,All,Technical/Diploma students
+21,Pre-Matric for Minorities,MoMA,₹6000,All,Class 1-10, Income < 1.0L
+22,Merit Cum Means (Technical),MoMA,₹30000,All,Professional courses, Minorities
+23,Saksham Scholarship,AICTE,₹50000,All,Specially-abled students
+24,Swami Vivekananda Scholarship,WB Govt,₹80000,All,West Bengal domicile, 60% Marks
+25,Aikyashree Scholarship,WB Minorities,Variable,All,West Bengal Minority students
+26,Medhabruti Odisha,Odisha Govt,₹10000,All,Odisha domicile, Merit-based
+27,Post Matric Bihar,Bihar Govt,Variable,All,SC/ST/BC/EBC of Bihar
+28,E-Kalyan Jharkhand,Jharkhand Govt,Variable,All,SC/ST/BC of Jharkhand
+29,Mukhya Mantri Yuva Sambal,Rajasthan Govt,₹4500,All,Unemployed graduates in Rajasthan
+30,Shramik Kalyan Board,Labor Dept,Variable,All,Children of registered laborers
+31,Adobe India Women-in-Technology,Adobe,₹100000,Female,CS/IT female students
+32,Google Generation Scholarship,Google,₹100000,Female,CS/IT female students
+33,Legrand Empowerment,Legrand,60% Fee,Female,Girl students in Engineering/Arch
+34,Rolls-Royce Unnati,Rolls-Royce,₹35000,Female,Girl students in Engineering
+35,Kotak Kanya Scholarship,Kotak Mahindra,₹150000,Female,Merit-cum-Means for girls
+36,Sant Nirankari Mission,SNM,100% Fee,All,Merit-cum-Means, Income < 3.5L
+37,JSW UDAAN Scholarship,JSW Group,₹40000,All,Students near JSW plants
+38,GOCL Scholarship,GOCL,₹10000,All,Professional courses, Income < 4L
+39,ONGC Scholarship for SC/ST,ONGC,₹48000,All,Engineering/MBBS students
+40,Coal India Limited,CIL,Variable,All,BPL families, SC/ST
+41,Single Girl Child (PG),UGC,₹3100/pm,Female,Only girl child in family
+42,Rank Holders (PG),UGC,₹3100/pm,All,University rank holders
+43,Raman Charpak Fellowship,CEFIPRA,€1500/pm,All,Indian/French PhD students
+44,Fulbright-Nehru,USIEF,Full Fund,All,Masters in USA
+45,Chevening Scholarships,UK Govt,Full Fund,All,Masters in UK
+46,DAAD Scholarship,Germany Govt,€1200/pm,All,Studies in Germany
+47,MEXT Scholarship,Japan Govt,Full Fund,All,Studies in Japan
+48,Erasmus Mundus,EU,Full Fund,All,Studies in Europe
+49,Azim Premji Foundation,APF,₹24000,All,Education/Social sector students
+50,Shiv Nadar Foundation,SNF,100% Fee,All,Merit-based for rural students
+51,Begum Hazrat Mahal,MAEF,₹6000,Female,Minority girl students
+52,Maulana Azad National,UGC,₹31000/pm,All,Minority PhD students
+53,RGNF for SC Students,UGC,₹31000/pm,All,SC Category PhD students
+54,National Fellowship for OBC,UGC,₹31000/pm,All,OBC Category PhD students
+55,Narendra Modi Scholarship,PMO,₹30000,All,Children of ESM/Ex-Police
+56,AICTE Swanath,AICTE,₹50000,All,Orphans/Children of martyrs
+57,PM Research Fellowship,IITs,₹70000/pm,All,High-end research in IITs/IISc
+58,GATE Stipend,AICTE,₹12400/pm,All,M.Tech through GATE
+59,GPAT Stipend,AICTE,₹12400/pm,All,M.Pharm through GPAT
+60,Prime Minister Special (PMSSS),AICTE,Variable,All,J&K and Ladakh students
+61,M Mukhyamantri Medhavi,MP Govt,100% Fee,All,MP domicile, 75% in 12th
+62,Post Matric Haryana,Haryana Govt,Variable,All,SC/BC of Haryana
+63,Punjab Post Matric,Punjab Govt,Variable,All,SC/BC of Punjab
+64,Tamil Nadu 7.5% Quota,TN Govt,100% Fee,All,Govt school students in TN
+65,Kerala Post Matric,Kerala Govt,Variable,All,SC/ST/OBC of Kerala
+66,Buddy4Study Sportspersons,Private,₹50000,All,National/State level athletes
+67,Keep India Smiling,Colgate,₹30000,All,Vocational/Professional courses
+68,Kindness Scholarship,PVR,₹10000,All,School students, Merit-based
+69,SDR Scholarship,Private,₹15000,All,Economic hardship, Merit-based
+70,STFC India Merit,STFC,₹35000,All,Children of transport workers
+71,IndusInd Blind Students,IndusInd,Variable,All,Visually impaired students
+72,National Overseas,MSJE,Full Fund,All,SC/ST students studying abroad
+73,Dr. Ambedkar Post Matric,NSP,Variable,All,EBC Category
+74,Prime Minister Scholarship,NSP,₹3000,All,RPF/RPSF ward
+75,Financial Assistance for Artists,Ministry of Culture,₹6000/pm,All,Traditional arts students
+76,National Talent Search (NTSE),NCERT,₹2000/pm,All,Class 10th selection
+77,NMMS Scholarship,NSP,₹12000,All,Class 8th selection
+78,Vidyadhan Scholarship,Sarojini Trust,₹10000,All,Kerala/TN/KA/AP students
+79,Anant Scholarship,Private,₹6000,All,West Bengal domicile, 70% Marks
+80,Fair & Lovely Career,HUL,₹50000,Female,Undergraduate girls
+81,Lorent India,Private,₹25000,All,Science background
+82,Amazon Future Engineer,Amazon,₹40000,All,CS students, Low income
+83,Intel India PhD Fellowship,Intel,₹500000,All,Deep tech researchers
+84,Microsoft Research,Microsoft,₹100000,All,Computer Science research
+85,Samsung Star Scholarship,Samsung,₹200000,All,JNV students in IITs/NITs
+86,L&T Build India,L&T,Variable,All,M.Tech in Construction
+87,Siemens Scholarship,Siemens,Full Fee,All,1st Year Engineering, Low income
+88,Bosch India Foundation,Bosch,₹20000,All,Vocational/ITI students
+89,SNC Lavalin Infrastructure,Private,₹30000,All,Civil Engineering
+90,V-Guard Big Idea,V-Guard,₹100000,All,Engineering/Management
+91,Xiaomi Hope Scholarship,Xiaomi,₹20000,All,Academic excellence
+92,Vivo For Education,Vivo,₹50000,All,Low income students
+93,Realme Future Makers,Realme,₹10000,All,Creative/Digital arts
+94,Oppo Hope,Oppo,₹30000,All,Higher education support
+95,Daimler India Commercial,Daimler,₹35000,All,Mechanical/Automobile
+96,Ashok Leyland Scholarship,Ashok Leyland,₹20000,All,Ward of truck drivers
+97,Maruti Suzuki Xcelerator,Maruti,₹15000,All,Diploma/ITI students
+98,Hero MotoCorp Women,Hero,₹50000,Female,Girl students in STEM
+99,Bajaj Finserv CPBFI,Bajaj,₹10000,All,Banking/Finance training
+100,TVS Srinivasan Services,TVS,₹15000,All,Rural students in TN/KA
+101,Wipro Elite NLTH,Wipro,Variable,All,B.Tech/MCA placements
+102,Infosys Foundation,Infosys,₹50000,All,Economic hardship
+103,HCL TechBee,HCL,Stipend,All,Class 12th to IT career
+104,Genpact G-Serve,Genpact,₹25000,All,Community service background
+105,Capgemini Excel,Capgemini,₹30000,All,Women in technology

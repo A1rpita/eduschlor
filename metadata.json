@@ -1,0 +1,5 @@
+{
+  "name": "EduScholar Portal - Indian Scholarship Decision Engine (DSS)",
+  "description": "A high-fidelity Decision Support System (DSS) using Rule-Based Logic and AI Grounding to find verified scholarship funding for the 2025-26 session.",
+  "requestFramePermissions": []
+}
